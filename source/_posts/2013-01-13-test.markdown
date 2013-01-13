@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "test"
+title: "中文测试"
 date: 2013-01-13 17:19
 comments: true
 categories: 
 ---
+>哈罗沃德

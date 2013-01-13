@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://silentzone.github.com/sitemap.xml 

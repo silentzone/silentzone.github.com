@@ -4,7 +4,7 @@
   <title><![CDATA[白石州州长]]></title>
   <link href="http://silentzone.github.com/atom.xml" rel="self"/>
   <link href="http://silentzone.github.com/"/>
-  <updated>2013-01-13T17:39:11+08:00</updated>
+  <updated>2013-01-13T23:16:50+08:00</updated>
   <id>http://silentzone.github.com/</id>
   <author>
     <name><![CDATA[li]]></name>
@@ -18,7 +18,8 @@
     <link href="http://silentzone.github.com/blog/2013/01/13/test/"/>
     <updated>2013-01-13T17:19:00+08:00</updated>
     <id>http://silentzone.github.com/blog/2013/01/13/test</id>
-    <content type="html"><![CDATA[<blockquote><p>哈罗沃德</p></blockquote>
+    <content type="html"><![CDATA[<blockquote><p>哈罗沃德
+img http://placekitten.com/890/280</p></blockquote>
 ]]></content>
   </entry>
   

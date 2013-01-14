@@ -4,7 +4,7 @@
 
 url: http://silentzone.github.com
 title: 白石州州长
-subtitle: 毕业于白石洲航空兵夜校
+subtitle: 
 author: li
 simple_search: http://google.com/search
 description:
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: silentzone
+disqus_show_comment_count: ture
 
 # Google Analytics
 google_analytics_tracking_id:

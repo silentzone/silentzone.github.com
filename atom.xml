@@ -4,7 +4,7 @@
   <title><![CDATA[白石州州长]]></title>
   <link href="http://silentzone.github.com/atom.xml" rel="self"/>
   <link href="http://silentzone.github.com/"/>
-  <updated>2013-01-14T12:11:24+08:00</updated>
+  <updated>2014-03-20T23:11:29+08:00</updated>
   <id>http://silentzone.github.com/</id>
   <author>
     <name><![CDATA[li]]></name>
@@ -14,12 +14,44 @@
 
   
   <entry>
-    <title type="html"><![CDATA[中文测试]]></title>
+    <title type="html"><![CDATA[design]]></title>
+    <link href="http://silentzone.github.com/blog/2014/03/20/design/"/>
+    <updated>2014-03-20T21:43:00+08:00</updated>
+    <id>http://silentzone.github.com/blog/2014/03/20/design</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[设计]]></title>
     <link href="http://silentzone.github.com/blog/2013/01/13/test/"/>
     <updated>2013-01-13T17:19:00+08:00</updated>
     <id>http://silentzone.github.com/blog/2013/01/13/test</id>
-    <content type="html"><![CDATA[<blockquote><p>哈罗 world
-<img  src="http://silentzone.github.com/img/test.jpg" /></p></blockquote>
+    <content type="html"><![CDATA[<p><img  src="http://silentzone.github.com/img/erp-01.jpg" />
+<img  src="http://silentzone.github.com/img/erp-design01-login.jpg" />
+<img  src="http://silentzone.github.com/img/erp-design01.jpg" />
+<img  src="http://silentzone.github.com/img/erp-design02.jpg" />
+<img  src="http://silentzone.github.com/img/task_iphone_ui.jpg" />
+<img  src="http://silentzone.github.com/img/task_iphone_ui3.jpg" /></p>
+
+<hr />
+
+<p><img  src="http://silentzone.github.com/img/cloud01.jpg" />
+<img  src="http://silentzone.github.com/img/cloud02.jpg" />
+<img  src="http://silentzone.github.com/img/cloud03.png" />
+<img  src="http://silentzone.github.com/img/ui.jpg" />
+<img  src="http://silentzone.github.com/img/ui02.jpg" /></p>
+
+<hr />
+
+<p><img  src="http://silentzone.github.com/img/www01.jpg" />
+<img  src="http://silentzone.github.com/img/www02.jpg" />
+<img  src="http://silentzone.github.com/img/www03.jpg" />
+<img  src="http://silentzone.github.com/img/www04.jpg" />
+<img  src="http://silentzone.github.com/img/law01-demo.jpg" />
+<img  src="http://silentzone.github.com/img/law03-demo.jpg" />
+<img  src="http://silentzone.github.com/img/law02-demo.jpg" />
+<img  src="http://silentzone.github.com/img/law04-demo.jpg" /></p>
 ]]></content>
   </entry>
   

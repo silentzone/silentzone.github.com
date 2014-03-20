@@ -1,9 +1,37 @@
 ---
 layout: post
-title: "中文测试"
+title: "设计"
 date: 2013-01-13 17:19
 comments: true
 categories: 
 ---
->哈罗 world
-<img  src="/img/test.jpg" />
+>ERP系统界面设计
+
+<img  src="/img/erp-01.jpg" />
+<img  src="/img/erp-design01-login.jpg" />
+<img  src="/img/erp-design01.jpg" />
+<img  src="/img/erp-design02.jpg" />
+<img  src="/img/task_iphone_ui.jpg" />
+<img  src="/img/task_iphone_ui3.jpg" />
+
+>平台界面设计demo
+
+<img  src="/img/cloud01.jpg" />
+<img  src="/img/cloud02.jpg" />
+<img  src="/img/cloud03.jpg" />
+<img  src="/img/ui.jpg" />
+<img  src="/img/ui02.jpg" />
+
+
+>界面设计3
+
+<img  src="/img/www01.jpg" />
+<img  src="/img/www02.jpg" />
+<img  src="/img/www03.jpg" />
+<img  src="/img/www04.jpg" />
+<img  src="/img/law01-demo.jpg" />
+<img  src="/img/law03-demo.jpg" />
+<img  src="/img/law02-demo.jpg" />
+<img  src="/img/law04-demo.jpg" />
+
+
